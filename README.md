@@ -7,7 +7,10 @@ SITL simulate : flight contoller, physical modeling, dynamics, environment effec
 we connect this simulation to pymavlink for get and set messages [pymavlink](https://mavlink.io/en/mavgen_python/)
 we wrap this simulation in gymnasium custom environment [gymnasium](https://gymnasium.farama.org/index.html) 
 and run PPO algorithm from [stable baseline](https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html)
-     
+
+
+     <img width="500" alt="image" src="https://github.com/MosheBraunshtein/DRL-FOR-QUADCOPTER/assets/55755575/6b063b9c-bcd5-4b92-a58f-86acdcdd3eb1">
+
 ## Installation 
 
 ### Build the Ardupilot code:
