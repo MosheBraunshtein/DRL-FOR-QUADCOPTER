@@ -9,7 +9,8 @@ we wrap this simulation in gymnasium custom environment [gymnasium](https://gymn
 and run PPO algorithm from [stable baseline](https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html)
 
 
-     <img width="500" alt="image" src="https://github.com/MosheBraunshtein/DRL-FOR-QUADCOPTER/assets/55755575/6b063b9c-bcd5-4b92-a58f-86acdcdd3eb1">
+<img width="500" alt="image" src="https://github.com/MosheBraunshtein/DRL-FOR-QUADCOPTER/assets/55755575/6b063b9c-bcd5-4b92-a58f-86acdcdd3eb1">
+
 
 ## Installation 
 
